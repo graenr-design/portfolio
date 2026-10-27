@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://graenr-design.github.io/porfolio/sitemap.xml
